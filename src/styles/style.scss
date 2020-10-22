@@ -1,0 +1,11 @@
+$bg-color: #333;
+$fg-color: #fff;
+
+* {
+    background-color: $bg-color;
+    color: $fg-color;
+
+    h1 {
+        color: rebeccapurple;
+    }
+}
